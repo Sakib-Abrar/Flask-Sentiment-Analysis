@@ -11,7 +11,7 @@ joblib==0.14.1
 lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
-nltk==3.4.5
+nltk==3.6.6
 numpy==1.21.0
 pkg-resources==0.0.0
 pylint==2.4.4
