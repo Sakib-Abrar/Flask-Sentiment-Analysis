@@ -15,7 +15,7 @@ nltk==3.6.6
 numpy==1.22.0
 pkg-resources==0.0.0
 pylint==2.4.4
-requests==2.22.0
+requests==2.31.0
 scikit-learn==0.22.1
 scipy==1.4.1
 six==1.14.0
