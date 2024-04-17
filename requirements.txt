@@ -22,5 +22,5 @@ six==1.14.0
 typed-ast==1.4.1
 urllib3==1.26.5
 vaderSentiment==3.2.1
-Werkzeug==2.2.3
+Werkzeug==2.3.8
 wrapt==1.11.2
