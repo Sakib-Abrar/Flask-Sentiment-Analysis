@@ -20,7 +20,7 @@ scikit-learn==0.22.1
 scipy==1.4.1
 six==1.14.0
 typed-ast==1.4.1
-urllib3==1.26.5
+urllib3==1.26.18
 vaderSentiment==3.2.1
 Werkzeug==2.2.3
 wrapt==1.11.2
